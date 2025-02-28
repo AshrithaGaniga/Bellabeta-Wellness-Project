@@ -67,6 +67,7 @@ The interactive **Bellabeat Wellness Dashboard** includes:
 - Automate data updates using Python or SQL scripts.
 - Expand the dashboard with more user engagement statistics.
 
-![Bellabeta Wellness Dashboard  Screenshot.png.png](https://github.com/AshrithaGaniga/Bellabeta-Wellness-Project/commit/fb43ad1d351139861e6efc6d19c5dc769353280f)
+![Bellabeta Wellness Dashboard  Screenshot](https://github.com/AshrithaGaniga/Bellabeta-Wellness-Project/commit/fb43ad1d351139861e6efc6d19c5dc769353280f)
+
 
 
