@@ -1,4 +1,4 @@
-# Bellabeta-Wellness-Project
+# Bellabeat Wellness Project
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -7,9 +7,9 @@
 - [Tools Used](#tools-used)
 - [Dataset Description](#dataset-description)
 - [Dashboard Features](#dashboard-features)
-- [Steps to Recreate the Dashboard](#steps-to-recreate-the-dashboard)
 - [Key Insights](#key-insights)
 - [Future Enhancements](#future-enhancements)
+
 
 ## Project Overview
 This project is part of the **Google Data Analytics Capstone** and focuses on analyzing smart device usage data to gain insights into consumer behavior. The goal is to provide data-driven recommendations for Bellabeat’s marketing strategy. The dataset used is the **FitBit Fitness Tracker Dataset**.
@@ -36,11 +36,26 @@ The dataset contains multiple CSV files tracking users' daily activities, sleep,
 
 ## Dashboard Features
 The interactive **Bellabeat Wellness Dashboard** includes:
-- **KPIs**: Total Steps, Total Calories Burned, Total Active Minutes
-- **Line Chart**: Calories vs. Steps trend over time
-- **Bar Chart**: Activity Breakdown (Sedentary, Light, Moderate, Intense)
-- **Pie Chart**: Sleep Distribution (Hours per Night)
-- **Interactive Filters**: User ID & Date
+
+### **Key Performance Indicators (KPIs)**
+- Displays essential metrics such as **Total Steps**, **Total Calories Burned**, and **Total Active Minutes**.
+- Helps stakeholders quickly assess users' overall activity levels and engagement with fitness tracking.
+
+### **Line Chart: Calories vs. Steps Trend**
+- Visualizes the relationship between calories burned and steps taken over time.
+- Enables analysis of whether increased physical activity directly leads to higher calorie expenditure.
+
+### **Bar Chart: Activity Breakdown**
+- Categorizes users' daily activities into **Sedentary, Light, Moderate, and Intense** activity levels.
+- Highlights the proportion of time spent in each category, revealing behavioral trends.
+
+### **Pie Chart: Sleep Distribution**
+- Illustrates the proportion of users falling into different sleep duration ranges (e.g., <5 hours, 5-7 hours, 7+ hours).
+- Helps identify common sleep patterns and potential areas for wellness improvement.
+
+### **Interactive Filters: User ID & Date**
+- Allows users to explore personalized insights by selecting specific users or date ranges.
+- Enhances dashboard usability by enabling targeted analysis of trends and behaviors over time.
 
 ## Steps to Recreate the Dashboard
 - **Data Cleaning & Preparation**
@@ -65,5 +80,7 @@ The interactive **Bellabeat Wellness Dashboard** includes:
 - Integrate additional fitness metrics for deeper insights.
 - Automate data updates using Python or SQL scripts.
 - Expand the dashboard with more user engagement statistics.
+
+
 
 
