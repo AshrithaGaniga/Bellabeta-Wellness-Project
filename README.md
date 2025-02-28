@@ -67,6 +67,6 @@ The interactive **Bellabeat Wellness Dashboard** includes:
 - Automate data updates using Python or SQL scripts.
 - Expand the dashboard with more user engagement statistics.
 
-
+![]()
 
 
