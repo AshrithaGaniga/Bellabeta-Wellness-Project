@@ -57,20 +57,6 @@ The interactive **Bellabeat Wellness Dashboard** includes:
 - Allows users to explore personalized insights by selecting specific users or date ranges.
 - Enhances dashboard usability by enabling targeted analysis of trends and behaviors over time.
 
-## Steps to Recreate the Dashboard
-- **Data Cleaning & Preparation**
-  - Import CSV files into MySQL Workbench and perform data cleaning (handling duplicates, missing values, standardizing formats).
-  - Format data as needed using Excel to ensure compatibility with MySQL Workbench.
-  
-- **Tableau Visualization**
-  - Connect cleaned dataset from MySQL to Tableau.
-  - Create individual sheets for KPIs, charts, and filters.
-  - Combine sheets into a single interactive dashboard.
-  
-- **Interactivity & Insights**
-  - Add filters to enable user-specific data exploration.
-  - Format visualizations for clarity and professional presentation.
-
 ## Key Insights
 - Users with higher step counts tend to burn more calories.
 - Most users spend a significant portion of their day in sedentary activity.
